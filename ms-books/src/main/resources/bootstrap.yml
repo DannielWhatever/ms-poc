@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: ms-books
+  cloud:
+    config:
+      uri: http://localhost:8888
